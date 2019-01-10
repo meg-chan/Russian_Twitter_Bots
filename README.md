@@ -6,3 +6,5 @@ Data can be found at https://github.com/fivethirtyeight/russian-troll-tweets
 Calculate_Scores_a.ipynb -> Capitalization and punctuation matters
 
 Calculate_Scores_b.ipynb -> Capitalization and punctuation does not matter
+
+wordclouds.R -> create wordclouds of the top 100 most unique words for each bot type
