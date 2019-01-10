@@ -1,7 +1,7 @@
 # Russian_Twitter_Bots
 Analysis of Russian IRA Tweets. 
 
-Data can be found at https://github.com/fivethirtyeight/russian-troll-tweets. Onlt the first 9 sets were used.
+Data can be found at https://github.com/fivethirtyeight/russian-troll-tweets. Only the first 9 sets were used.
 
 Calculate_Scores_a.ipynb -> Capitalization and punctuation matters
 
